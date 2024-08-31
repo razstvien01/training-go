@@ -47,3 +47,7 @@ Thumbs.db
 *.coverprofile
 *.cov
 coverage/
+
+basics/*.exe
+basics/main
+basics/go.sum
