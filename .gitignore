@@ -1,0 +1,49 @@
+# Binaries for programs and plugins
+*.exe
+*.dll
+*.so
+*.dylib
+*.out
+
+# Build directories
+_build/
+bin/
+dist/
+out/
+build/
+
+# Vendor directory (if using `go mod vendor`)
+vendor/
+
+# Test binary
+*.test
+
+# Go workspace file
+go.work
+
+# Go module files (only if you don't want them in the repo)
+# Uncomment the following lines if you want to ignore go.mod and go.sum
+# go.mod
+# go.sum
+
+# Logs
+*.log
+
+# IDE-specific files (add your preferred IDE's files if needed)
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Coverage files
+*.coverprofile
+*.cov
+coverage/
