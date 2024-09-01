@@ -11,7 +11,7 @@
 - Working with Go Standard Library;
 - How to structure a modern web app;
 - JS framework alternatives;
-- Build a simple web app.
+- Build a simple web app with simple API.
 
 ### Running the Code
 
